@@ -1,0 +1,16 @@
+.container-button{
+    display: flex;
+    position: absolute;
+    top: 72.5%;
+    width: 100%;
+    justify-content: center;
+    align-items: center; 
+}
+
+.btn{
+    color: rgba(179, 179, 179,0.7);
+    border: 1px solid rgba(179, 179, 179,0.5);
+    padding: 15px 30px;
+    display: flex;
+    font-size: 20px;
+}

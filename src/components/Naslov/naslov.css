@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    width: 100%;
+    top: 20%;
+}
+
+.naslov{
+    font-size: 40px;
+    color: white;
+    font-family: 'Sharp Sans', sans-serif;  
+}
+
+.naslov h1{
+    font-weight: lighter;
+}
+
